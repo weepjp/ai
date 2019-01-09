@@ -8,7 +8,7 @@
 
 | 画像 | ファイル名 | 画像の説明 |
 |----|----|----|
-| <img src="https://raw.githubusercontent.com/weepjp/ai/master/AiArt/ai_01.png" alt="画像" title="画像" height="16"> | ai_01.png | 全身 |
-| <img src="https://raw.githubusercontent.com/weepjp/ai/master/AiArt/ai_02.png" alt="画像" title="画像" height="16"> | ai_01.png | 顔 |
-| <img src="https://raw.githubusercontent.com/weepjp/ai/master/AiArt/ai_03.png" alt="画像" title="画像" height="16"> | ai_01.png | おこ|
+| <img src="https://raw.githubusercontent.com/weepjp/ai/master/AiArt/ai_01.png" alt="画像" title="画像" width="160"> | ai_01.png | 全身 |
+| <img src="https://raw.githubusercontent.com/weepjp/ai/master/AiArt/ai_02.png" alt="画像" title="画像" height="160"> | ai_01.png | 顔 |
+| <img src="https://raw.githubusercontent.com/weepjp/ai/master/AiArt/ai_03.png" alt="画像" title="画像" height="160"> | ai_01.png | おこ |
 
